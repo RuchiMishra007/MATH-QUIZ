@@ -10,6 +10,13 @@ body
 		float: none;
 		border-radius: 15px;
 	}
+	.num_div1 , .num_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
 
 
 #player1_name , #player2_name
@@ -33,4 +40,12 @@ border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-family: math;
+    font-weight: 500;
+    line-height: 1.1;
+	color: black;
 }
